@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Dagon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagonlee)](https://github.com/dagonlee/github-readme-stats)
-
 <a href="https://github.com/dagonlee">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dagonlee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dagonlee&layout=compact&langs_count=8&theme=algolia"/>
