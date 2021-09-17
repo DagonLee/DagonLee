@@ -1,4 +1,4 @@
-## Hi there I'm DagonLee👋
+## Hi there 👋
 
 
 <a href="https://github.com/dagonlee" target="_blank">
