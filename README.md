@@ -1,8 +1,5 @@
-### Hi there I'm DagonLee👋
+## Hi there I'm DagonLee👋
 
-
-## Hi There 👋  
-  
 
 <a href="https://github.com/dagonlee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -60,6 +57,8 @@ If you want to contact me, please leave me a message!
 </td></tr></table>  
 
 <br/>  
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
