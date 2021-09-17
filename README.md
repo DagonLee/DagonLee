@@ -20,6 +20,20 @@ If you want to contact me, please leave me a message!
  
 <br/>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+</div>  
+
+<br/>  
+
 ### 💫 Experience
 - **Naver Boostcamp AI-Tech** - participant student*(Aug 2021 ~)*
 - **Google ML Bootcamp** - participant *(Aug 2021 ~)*
@@ -59,19 +73,7 @@ If you want to contact me, please leave me a message!
 <br/>  
 
 
-### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
-</div>  
-
-<br/>  
 
 
 <!--
