@@ -23,7 +23,7 @@ If you want to contact me, please leave me a message!
 
 
 ### 💫 Experience
-- **Naver Boostcamp AI-Tech** - participant student*(Aug 2021 ~)*
+- **Naver Boostcamp AI-Tech** - participant student *(Aug 2021 ~)*
 - **Google ML Bootcamp** - participant *(Aug 2021 ~)*
 - **42seoul** - cadet *(Oct 2020 - Apr 2021)*  
   
