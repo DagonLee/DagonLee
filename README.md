@@ -33,7 +33,7 @@ If you want to contact me, please leave me a message!
 ### ✨ Summary
 
 - 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
-- 📝 I regularly write articles on [my blog](https://okemosboy.tistory.com/).  
+- 📝 I regularly TIL on [my blog](https://okemosboy.tistory.com/).  
   
 
 <br/>  
