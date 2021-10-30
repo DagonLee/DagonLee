@@ -14,7 +14,7 @@
 
 Good day!
 
-I am interested in data science and deep learning and NLP. I love reading, exercising and communicating! 
+I am interested in data engineering and deep learning and machine learning. I love reading, exercising and communicating! 
 
 If you want to contact me, please leave me a message!
  
