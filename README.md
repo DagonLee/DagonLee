@@ -23,8 +23,10 @@ If you want to contact me, please leave me a message!
 
 
 ### 💫 Experience
-- **Naver Boostcamp AI-Tech** - participant student *(Aug 2021 ~)*
-- **Google ML Bootcamp** - participant *(Aug 2021 ~)*
+- SSAFY(Samsung Software Academy For Youth) *(Jan 2023 ~ )*
+- **Netmarble - Server Developer *(Jan 2022 ~ June 2022)*
+- **Naver Boostcamp AI-Tech** - participant student *(Aug 2021 ~ Dec 2021)*
+- **Google ML Bootcamp** - participant *(Aug 2021 ~ Dec 2021)*
 - **42seoul** - cadet *(Oct 2020 - Apr 2021)*  
   
 <br/>  
@@ -32,7 +34,8 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
+- 🌱 I have an experience in Deep Learning, Computer Vision, NLP.
+- Recently, I'm interested in Date Engineering!
 - 📝 I regularly TIL on [my blog](https://okemosboy.tistory.com/).  
   
 
