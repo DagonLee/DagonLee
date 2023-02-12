@@ -24,7 +24,7 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 - SSAFY(Samsung Software Academy For Youth) *(Jan 2023 ~ )*
-- **Netmarble - Server Developer *(Jan 2022 ~ June 2022)*
+- **Netmarble** - Server Developer *(Jan 2022 ~ June 2022)*
 - **Naver Boostcamp AI-Tech** - participant student *(Aug 2021 ~ Dec 2021)*
 - **Google ML Bootcamp** - participant *(Aug 2021 ~ Dec 2021)*
 - **42seoul** - cadet *(Oct 2020 - Apr 2021)*  
