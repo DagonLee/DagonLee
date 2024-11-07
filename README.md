@@ -36,7 +36,6 @@ If you want to contact me, please leave me a message!
 
 - 🌱 I have an experience in Deep Learning, Computer Vision, NLP.
 - Recently, I'm interested in Date Engineering!
-- 📝 I regularly TIL on [my blog](https://okemosboy.tistory.com/).  
   
 
 <br/>  
